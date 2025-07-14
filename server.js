@@ -18,3 +18,4 @@ app.listen(PORT, () => {
 });
 // 🔁 Cambio para forzar redeploy en Railway (Jul 14)
 // 🔁 Cambio para forzar redeploy en Railway (Jul 14)
+// 🔁 Forzar redeploy tras configurar variables compartidas
